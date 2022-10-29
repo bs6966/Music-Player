@@ -1,4 +1,6 @@
-# Project Lyrics
+# Project Spotify 2.0
+
+Link to the live server : https://betterspotify2.netlify.app/
 
 Develop an elegant React.js Music Application. 
 
